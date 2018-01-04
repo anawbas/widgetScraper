@@ -1,0 +1,1 @@
+This is an example of a cron job end point that would scrape a specific page for a specific widget and widget property.
